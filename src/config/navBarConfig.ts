@@ -11,10 +11,10 @@ import { siteConfig } from "./siteConfig";
 const getDynamicNavBarConfig = (): NavBarConfig => {
 	// 基础导航栏链接
 	const links: (NavBarLink | LinkPreset)[] = [
-		// 主页
+		// HOME
 		LinkPreset.Home,
 
-		// 归档
+		// Archive
 		LinkPreset.Archive,
 	];
 
@@ -30,7 +30,7 @@ const getDynamicNavBarConfig = (): NavBarConfig => {
 
 	// 我的及其子菜单
 	links.push({
-		name: "我的",
+		name: "clips",
 		url: "/my/",
 		icon: "material-symbols:person",
 		children: [
@@ -44,7 +44,7 @@ const getDynamicNavBarConfig = (): NavBarConfig => {
 
 	// 关于及其子菜单
 	links.push({
-		name: "关于",
+		name: "About me",
 		url: "/content/",
 		icon: "material-symbols:info",
 		children: [
@@ -58,29 +58,17 @@ const getDynamicNavBarConfig = (): NavBarConfig => {
 
 	// 自定义导航栏链接,并且支持多级菜单
 	links.push({
-		name: "链接",
+		name: "Links",
 		url: "/links/",
 		icon: "material-symbols:link",
 
 		// 子菜单
 		children: [
 			{
-				name: "GitHub",
-				url: "https://github.com/CuteLeaf/Firefly",
+				name: "Bilibili",
+				url: "https://space.bilibili.com/321826695",
 				external: true,
-				icon: "fa7-brands:github",
-			},
-			{
-				name: "Gitee",
-				url: "https://gitee.com/CuteLeaf/Firefly",
-				external: true,
-				icon: "fa7-brands:gitee",
-			},
-			{
-				name: "QQ交流群",
-				url: "https://qm.qq.com/q/ZGsFa8qX2G",
-				external: true,
-				icon: "fa7-brands:qq",
+				icon: "fa7-brands:bilibili",
 			},
 		],
 	});
