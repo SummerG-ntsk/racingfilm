@@ -38,7 +38,7 @@ Five years ago, legendary racer Zhang Chi won the treacherous Bayinbrook rally b
 [/grid]
 
 ## Ford v Ferrari (2019)
- Directed by Han Han
+ Directed by James Mangold
 
 Based on the true story of the 1966 24 Hours of Le Mans, this film follows automotive designer Carroll Shelby and driver Ken Miles as they battle corporate interference, engineering limits, and their own demons to build a revolutionary race car for Ford. At its core, it is a story about friendship, integrity, and the cost of staying true to oneself.
 
@@ -57,6 +57,7 @@ Set against the golden era of Formula 1, Rush dramatizes the legendary rivalry b
 
 ## Cars (2006)
  Directed by  John Lasseter
+ 
 An arrogant rookie race car, Lightning McQueen, is on the fast track to fame until he gets stranded in a forgotten town on Route 66. With no fancy pit crew and no media attention, he is forced to work alongside the town's quirky residents. Through unexpected friendships and a slow-paced world he never bothered to see, McQueen learns that trophies are not the only measure of success. Cars speaks to audiences of all ages about humility, community, and the joy of slowing down.
 
 [grid]
